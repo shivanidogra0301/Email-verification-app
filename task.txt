@@ -1,0 +1,9 @@
+Email Verification Service
+
+AIM : Host a free github email verification service into the aws ec2 i.e. Trumail.
+
+https://github.com/trumail/trumail
+
+Trumail is a free and open source email validation/verification system. It is available in three forms, the Golang client library verifier for use in your own Go projects, a public API endpoint (more info: https://trumail.io), and a public Docker image on DockerHub. Trumail is a free and open source email validation/verification system. It is available in three forms, the Golang client library verifier for use in your own Go projects, a public API endpoint (more info: https://trumail.io), and a public Docker image on DockerHub
+
+Please share the endpoint url hosted on aws or any other free hosting tool available with us with one sample example.
