@@ -22,8 +22,8 @@ var express=require("express"),
    var url="https://api.trumail.io/v2/lookups/json?email="+email
    request(url,function(err,response,body){
       if(!err&&response.statusCode==200){
-         
-         res.render("result",{data:body})
+         var data=JSON.parse(body)
+         res.render("result",{data:data})
       }
 
 
